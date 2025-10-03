@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InstaDev</string>
+
+    <!-- Login Screen -->
+    <string name="login_screen_language">Español (España)</string>
+    <string name="login_screen_start_session">Iniciar sesión</string>
+    <string name="login_screen_forgot_password">¿Has olvidado la contraseña?</string>
+    <string name="login_screen_create_account">Crear cuenta nueva</string>
+    <string name="login_screen_user_text_field">Usuario, correo electrónico o móvil</string>
+    <string name="login_screen_user_password">contraseña</string>
+    <string name="login_screen_content_description_instagram_logo">Instagram logo</string>
+    <string name="login_screen_content_description_meta_logo">Meta logo</string>
+
+    <!-- Register Screen -->
+    <string name="register_screen_title_phone_text">¿Cuál es tu número de móvil?</string>
+    <string name="register_screen_subtitle_phone_text">Introduce tu número de teléfono móvil de contacto. Nadie lo verá en tu perfil.</string>
+    <string name="register_screen_body_text">Puede que recibas notificaciones nuestras en WhatsApp y por SMS por motivos de seguridad y para iniciar sesión.</string>
+    <string name="register_screen_next_button">Siguiente</string>
+    <string name="register_screen_with_email_button">Registrarte con tu correo electrónico</string>
+    <string name="register_screen_find_account_link">Buscar mi cuenta</string>
+    <string name="register_screen_register_phone_textfield">Número de móvil</string>
+    <string name="register_screen_content_description_back">Icono regresar</string>
+
+    <string name="register_screen_title_email_text">¿Cuál es tu correo electrónico?</string>
+    <string name="register_screen_subtitle_email_text">Introduce tu correo electrónico de contacto. Nadie lo verá en tu perfil.</string>
+    <string name="register_screen_with_phone_button">Registrarte con tu número móvil</string>
+    <string name="register_screen_register_email_textfield">Correo electrónico</string>
+</resources>

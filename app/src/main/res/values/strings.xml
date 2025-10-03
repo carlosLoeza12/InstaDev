@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InstaDev</string>
+
+    <!-- Login Screen -->
+    <string name="login_screen_language">Spanish (Spain)</string>
+    <string name="login_screen_start_session">Login</string>
+    <string name="login_screen_forgot_password">Forgot your password?</string>
+    <string name="login_screen_create_account">Create new account</string>
+    <string name="login_screen_user_text_field">User, email or mobile</string>
+    <string name="login_screen_user_password">Password</string>
+    <string name="login_screen_content_description_instagram_logo">Instagram logo</string>
+    <string name="login_screen_content_description_meta_logo">Meta logo</string>
+
+    <!-- Register Screen -->
+    <string name="register_screen_title_phone_text">What is your mobile number?</string>
+    <string name="register_screen_subtitle_phone_text">Enter your contact mobile number. No one will see it on your profile.</string>
+    <string name="register_screen_body_text">You may receive notifications from us on WhatsApp and by SMS for security and login purposes.</string>
+    <string name="register_screen_next_button">Next</string>
+    <string name="register_screen_with_email_button">Register with your email address</string>
+    <string name="register_screen_find_account_link">Find my account</string>
+    <string name="register_screen_register_phone_textfield">Mobile number</string>
+    <string name="register_screen_content_description_back">Back icon</string>
+
+
+    <string name="register_screen_title_email_text">What is your email address?</string>
+    <string name="register_screen_subtitle_email_text">Enter your contact email address. No one will see it on your profile.</string>
+    <string name="register_screen_with_phone_button">Register with your mobile number</string>
+    <string name="register_screen_register_email_textfield">Email</string>
+</resources>
